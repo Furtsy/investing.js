@@ -1,0 +1,47 @@
+{
+  "name": "investing.js",
+  "version": "1.0.0",
+  "description": "You can get information about the crypto you want and see how much it price on the date you set.",
+  "main": "function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Furtsy/investing.js.git"
+  },
+  "keywords": [
+    "crypto",
+    "crypto-api",
+    "crypto.js",
+    "crypto-api.js",
+    "crypto-cash",
+    "bitcoin",
+    "cryptocurrency",
+    "blockchain",
+    "bitcoinjs",
+    "investing",
+    "investing.js",
+    "investing-api",
+    "investing-api.js",
+    "kripto",
+    "kripto para",
+    "kripto-para",
+    "kripto-api",
+    "borsa",
+    "borsa-api",
+    "borsa.js", 
+    "cryptocurrency",
+    "ethereum",
+    "price"
+  ],
+  "author": "Furtsy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Furtsy/investing.js/issues"
+  },
+  "homepage": "https://github.com/Furtsy/investing.js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
